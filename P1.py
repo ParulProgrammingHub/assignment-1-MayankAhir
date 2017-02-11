@@ -1,5 +1,4 @@
-# enter length and breadth of rectangle and calculate area and perimeter of rectangle.
-print "Program find Area and Perimeter of Rectangle"
+# enter length and breadth of rectangle and calculate area and perimeter of rectangle
 l=input("Enter length of the Rectangle")
 b=input("Enter breadth of the Rectangle")
 Area=l*b
